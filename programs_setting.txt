@@ -1,0 +1,6 @@
+1 PROG001 ComputerScience CoreCSProgram
+2 PROG002 InformationTech CoreITProgram
+3 PROG003 ElectricalEng CoreEEProgram
+4 PROG004 MechanicalEng CoreMECProgram
+5 PROG005 CivilEng CoreCivilProgram
+6 PROG006 ElectronicComunication CoreECEprogram
